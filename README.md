@@ -2,10 +2,10 @@
 Likes to do research and application in AI, also likes watching random stuff on YouTube and buys lots of books but never reads them. Currently working on graduate thesis on medicine.
 
 ## Education
-### FPT University | _2021 - Present_ 
-- Expected Graduation Date: _Sep 2025_
-- Bachelor of Science in Artificial Intelligence.
-- GPA: 9.2 / 10 (8/9 Semesters)
+### FPT University | _2021 - 2025_ 
+- Graduated (as **Valedictorian**): _Nov 2025_
+- Bachelor of Engineering in Artificial Intelligence.
+- GPA: 9.12 / 10
 
 ### VNU-HCM High School for the Gifted | _2018 - 2021_
 - High School Diploma - Specialized English Class.
@@ -13,8 +13,10 @@ Likes to do research and application in AI, also likes watching random stuff on 
 
 ## Work Experience
 ### AI Engineer @ FPT Software AI Center | _August 2024 - Present_
-- Built a system for Non-Disclosure Agreement (NDA) verification.
-- Still working... (will update soon)
+- Built and experimented with reasoning-driven legal document review and auto-edit with over 80% detection and edit accuracy.
+- Spearheaded design and implementation of project metric forecasting on historical data, which is then wrapped in an agentic workflow supercharged with on-premise LLM.
+- A key member in development of MS Teams chatbot for supporting PMs (serving 1K+ projects). Incorporated advanced RAG techniques and robust tool calling for QnA of company and project files.
+- Achievements: Top 1 Learner in AI Augmented Engineer Program of Q3/2025 (2 NVIDIA Certificates)
 
 ### Data Engineer @ FPT Software | _November 2023 - August 2024_
 - Built data pipeline for a large-scale data processing system, complex visualization and predictive modeling (raw data approximately > 10GB).
